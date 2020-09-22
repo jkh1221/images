@@ -66,10 +66,10 @@
 
 #### 1.2	Properties Panel
 
-    Properties Panel is one for editing and saving the details value of all Object elements created.  
-    - If they click on the Object element to edit, corresponding properties panel will be displayed.  
-    - If then didn’t select any Object element, properties panel for root element will be displayed  
-    Slot Object could be created in root element panel and they will be referenced to create the Slot Object element.  
+  Properties Panel is one for editing and saving the details value of all Object elements created.  
+  - If they click on the Object element to edit, corresponding properties panel will be displayed.  
+  - If then didn’t select any Object element, properties panel for root element will be displayed  
+  Slot Object could be created in root element panel and they will be referenced to create the Slot Object element.  
 
 #### 1.3	Menu Bar
 
