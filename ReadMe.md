@@ -19,9 +19,9 @@
 #### 1.1	ToolBox  
 ##### ![](./readme/box_hand.png)Hand Tool  
   Freely navigate without accidentally moving elements.  
-##### Selection Tool  
+##### ![](./readme/box_selection.png)Selection Tool  
   Select multiple diagram elements at the same time.  
-##### Node Tool  
+##### ![](./readme/box_node.png)Node Tool  
   Create the Node Object element for point-to-point connections.  
   - Default Node  
   - Action Node  
@@ -31,11 +31,11 @@
     - Verify  
     - Transfer  
     - Deposit  
-##### Gateway Tool  
+##### ![](./readme/box_gateway.png)Gateway Tool  
   Create the Gateway Object element  
   This will determine “Logical And”, “Logical OR” and multiple “Slot Object” will be compared.  
   Conditional operations such as “equal to”, “not equal”, “less than” and so on will be possible.  
-##### Slot Tool  
+##### ![](./readme/box_slot.png)Slot Tool  
   Create the Slot Object element.  
   At first, Slot Objects must be created in root element.   
   Slot Objects created in root object element will be referenced here.  
@@ -51,12 +51,12 @@
       - person  
       - money  
       - authority  
-##### Grouping Tool  
+##### ![](./readme/box_grouping.png)Grouping Tool  
   Create Grouping Object element.  
   This will be acts as container for grouping.   
   This will contain another all of the Object element including Grouping Object element.  
 
-##### Data Management Tool  
+##### ![](./readme/box_data.png)Data Management Tool  
   Create Data Process Object element.  
   - If “Action” value is “Yes”, Some facts for Slot Object will be reflected as text value.  
   - If “Action” value is “No”, the value of some Slot Object will be input.  
@@ -70,9 +70,10 @@
 
 #### 1.3	Menu Bar
 
-  
+  ![](./readme/btn_export.png)
   They can save current diagram as the XML file and continue working on this diagram at a later time by uploading the XML file saved.  
  
+ ![](./readme/btn_load.png)
   Create a new diagram from an .xml file.  
 
 ### 2.	Template Building Example
@@ -90,6 +91,8 @@
 
 We can assume that template diagram for above contract will be built as following.  
 But the diagram may vary slightly depending on the maker  
+
+  ![](./readme/login.png)
  
 
 Diagram will be made of in following order in Web program.  
