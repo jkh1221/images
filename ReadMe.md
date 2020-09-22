@@ -17,7 +17,7 @@
   ![](./readme/main.PNG)
 
 #### 1.1	ToolBox  
-##### Hand Tool  
+##### ![](./readme/box_hand.png)Hand Tool  
   Freely navigate without accidentally moving elements.  
 ##### Selection Tool  
   Select multiple diagram elements at the same time.  
