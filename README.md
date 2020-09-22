@@ -21,7 +21,7 @@
 
 #### 1.1	ToolBox  
 ##### Hand Tool  
-    Freely navigate without accidentally moving elements.  
+  Freely navigate without accidentally moving elements.  
 ##### Selection Tool  
 	Select multiple diagram elements at the same time.  
 ##### Node Tool  
