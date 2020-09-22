@@ -107,12 +107,12 @@ Diagram will be made of in following order in Web program.
 
 #### Keyboard Shortcut and Mouse Action for Template editing
 
-Copy the Object : Ctrl + C  
-Paste the Object : Ctrl + V  
-Select the Object : mouse click  
-Move the Object : mouse click and drag  
-Zoom : Ctrl + scroll  
-Scroll up : ↑(up arrow) or mouse scroll up  
-Scroll down : ↓(down arrow) or mouse scroll down  
+  - Copy the Object : Ctrl + C  
+  - Paste the Object : Ctrl + V  
+  - Select the Object : mouse click  
+  - Move the Object : mouse click and drag  
+  - Zoom : Ctrl + scroll  
+  - Scroll up : ↑(up arrow) or mouse scroll up  
+  - Scroll down : ↓(down arrow) or mouse scroll down  
 
 
