@@ -19,7 +19,7 @@ Contents
  
 ### 1.	Template Structure
 
-    1.1	ToolBox  
+#### 1.1	ToolBox  
    Hand Tool
 	Freely navigate without accidentally moving elements.
    Selection Tool
