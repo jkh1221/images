@@ -20,11 +20,11 @@
 ### 1.	Template Structure
 
 #### 1.1	ToolBox  
-  Hand Tool  
+##### Hand Tool  
 	Freely navigate without accidentally moving elements.  
-  Selection Tool  
+##### Selection Tool  
 	Select multiple diagram elements at the same time.  
-  Node Tool  
+##### Node Tool  
     Create the Node Object element for point-to-point connections.  
     - Default Node  
     - Action Node  
@@ -34,11 +34,11 @@
       - Verify  
       - Transfer  
       - Deposit  
-   Gateway Tool  
+##### Gateway Tool  
     Create the Gateway Object element  
     This will determine “Logical And”, “Logical OR” and multiple “Slot Object” will be compared.  
     Conditional operations such as “equal to”, “not equal”, “less than” and so on will be possible.  
-   Slot Tool  
+##### Slot Tool  
     Create the Slot Object element.  
     At first, Slot Objects must be created in root element.   
     Slot Objects created in root object element will be referenced here.  
@@ -54,12 +54,12 @@
         - person  
         - money  
         - authority  
-   Grouping Tool  
+##### Grouping Tool  
     Create Grouping Object element.  
     This will be acts as container for grouping.   
     This will contain another all of the Object element including Grouping Object element.  
 
-   Data Management Tool  
+##### Data Management Tool  
     Create Data Process Object element.  
     - If “Action” value is “Yes”, Some facts for Slot Object will be reflected as text value.  
     - If “Action” value is “No”, the value of some Slot Object will be input.  
