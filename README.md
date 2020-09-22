@@ -23,60 +23,60 @@
 ##### Hand Tool  
   Freely navigate without accidentally moving elements.  
 ##### Selection Tool  
-	Select multiple diagram elements at the same time.  
+  Select multiple diagram elements at the same time.  
 ##### Node Tool  
-    Create the Node Object element for point-to-point connections.  
-    - Default Node  
-    - Action Node  
-    This option would be enabled only when it must be started from “Slot Object” whose the type is “person” or “authority”.  
-    This contains 4 options as following.  
-      - Sign  
-      - Verify  
-      - Transfer  
-      - Deposit  
+  Create the Node Object element for point-to-point connections.  
+  - Default Node  
+  - Action Node  
+  This option would be enabled only when it must be started from “Slot Object” whose the type is “person” or “authority”.  
+  This contains 4 options as following.  
+    - Sign  
+    - Verify  
+    - Transfer  
+    - Deposit  
 ##### Gateway Tool  
-    Create the Gateway Object element  
-    This will determine “Logical And”, “Logical OR” and multiple “Slot Object” will be compared.  
-    Conditional operations such as “equal to”, “not equal”, “less than” and so on will be possible.  
+  Create the Gateway Object element  
+  This will determine “Logical And”, “Logical OR” and multiple “Slot Object” will be compared.  
+  Conditional operations such as “equal to”, “not equal”, “less than” and so on will be possible.  
 ##### Slot Tool  
-    Create the Slot Object element.  
-    At first, Slot Objects must be created in root element.   
-    Slot Objects created in root object element will be referenced here.  
-    There’re 2 types in slot : Base Type and Extended Type  
-    - Base Type  
-        - string  
-        - number  
-        - bool  
-        - address  
-        - datetime  
-        - asset  
-    - Extended Type  
-        - person  
-        - money  
-        - authority  
+  Create the Slot Object element.  
+  At first, Slot Objects must be created in root element.   
+  Slot Objects created in root object element will be referenced here.  
+  There’re 2 types in slot : Base Type and Extended Type  
+  - Base Type  
+      - string  
+      - number  
+      - bool  
+      - address  
+      - datetime  
+      - asset  
+  - Extended Type  
+      - person  
+      - money  
+      - authority  
 ##### Grouping Tool  
-    Create Grouping Object element.  
-    This will be acts as container for grouping.   
-    This will contain another all of the Object element including Grouping Object element.  
+  Create Grouping Object element.  
+  This will be acts as container for grouping.   
+  This will contain another all of the Object element including Grouping Object element.  
 
 ##### Data Management Tool  
-    Create Data Process Object element.  
-    - If “Action” value is “Yes”, Some facts for Slot Object will be reflected as text value.  
-    - If “Action” value is “No”, the value of some Slot Object will be input.  
+  Create Data Process Object element.  
+  - If “Action” value is “Yes”, Some facts for Slot Object will be reflected as text value.  
+  - If “Action” value is “No”, the value of some Slot Object will be input.  
 
 #### 1.2	Properties Panel
 
-  Properties Panel is one for editing and saving the details value of all Object elements created.  
-  - If they click on the Object element to edit, corresponding properties panel will be displayed.  
-  - If then didn’t select any Object element, properties panel for root element will be displayed  
-  Slot Object could be created in root element panel and they will be referenced to create the Slot Object element.  
+    Properties Panel is one for editing and saving the details value of all Object elements created.  
+    - If they click on the Object element to edit, corresponding properties panel will be displayed.  
+    - If then didn’t select any Object element, properties panel for root element will be displayed  
+    Slot Object could be created in root element panel and they will be referenced to create the Slot Object element.  
 
 #### 1.3	Menu Bar
 
   
-They can save current diagram as the XML file and continue working on this diagram at a later time by uploading the XML file saved.  
+  They can save current diagram as the XML file and continue working on this diagram at a later time by uploading the XML file saved.  
  
-Create a new diagram from an .xml file.  
+  Create a new diagram from an .xml file.  
 
 ### 2.	Template Building Example
 
