@@ -5,7 +5,7 @@ This is written for installation and operation on “DApp For Sharing PDF on Sma
 
  - If you have not yet installed node application, do as following  
   	 - Go to https://nodejs.org/en/download/ and Download  
-    ![Image of Yaktocat](./readme/node.PNG)  
+    ![](./readme/node.PNG)  
   	 - Install the downloaded msi as keeping default.  
 
 ### 2.	Ganache Application Download , Installation and Configuration
