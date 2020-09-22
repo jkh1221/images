@@ -70,11 +70,9 @@
 
 #### 1.3	Menu Bar
 
-  ![](./readme/btn_export.png)  
-  They can save current diagram as the XML file and continue working on this diagram at a later time by uploading the XML file saved.  
+  ![](./readme/btn_export.png)  They can save current diagram as the XML file and continue working on this diagram at a later time by uploading the XML file saved.  
  
- ![](./readme/btn_load.png)  
-  Create a new diagram from an .xml file.  
+  ![](./readme/btn_load.png)  Create a new diagram from an .xml file.  
 
 ### 2.	Template Building Example
 
